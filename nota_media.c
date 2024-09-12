@@ -6,13 +6,13 @@ int main(){
     printf ("Qual a primeira nota?\n");
     scanf ("%f" , &nota1);
 
-    printf ("Qual a primeira nota?\n");
+    printf ("Qual a segunda nota?\n");
     scanf ("%f" , &nota2);
 
-    printf ("Qual a primeira nota?\n");
+    printf ("Qual a terceira nota?\n");
     scanf ("%f" , &nota3);
 
-    printf ("Qual a primeira nota?\n");
+    printf ("Qual a quarta nota?\n");
     scanf ("%f" , &nota4);
 
     media = (nota1 + nota2 + nota3 + nota4) /4;
